@@ -3,17 +3,7 @@
         todoList: [
           {
             id: 1,
-            title: "lorem isComplete",
-            isComplete: false,
-          },
-          {
-            id: 2,
-            title: "fuck a girl",
-            isComplete: false,
-          },
-          {
-            id: 3,
-            title: "do bull shit things",
+            title: "emxample todo item",
             isComplete: false,
           },
         ],
